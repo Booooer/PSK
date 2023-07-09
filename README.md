@@ -41,5 +41,5 @@ API key: `Ghji2-2asdAda_adALIOKsa2121`
 Тестирование проводилось в программе <a href="https://www.postman.com/"><b>Postman</b></a>
 
 `Создание подборки`
+![](https://github.com/Booooer/PSK/blob/main/public/img/t1.gif)
 
-<img src="{{ asset('img/t1.gif') }}">
