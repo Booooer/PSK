@@ -28,5 +28,5 @@ Route::post('/v1/update',"App\Http\Controllers\OfferController@updateOffer")
 Route::post('/v1/item/create',"App\Http\Controllers\OfferController@createItem")
 ->middleware('authApi');
 
-Route::get('/v1/item/delete',"App\Http\Controllers\OfferController@deleteItem")
+Route::delete('/v1/item/delete',"App\Http\Controllers\OfferController@deleteItem")
 ->middleware('authApi');

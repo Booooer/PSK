@@ -35,3 +35,11 @@ API key: `Ghji2-2asdAda_adALIOKsa2121`
 
 В той же консоли для запуска сайта введите команду:
 `php artisan serve`
+
+# Тестирование API
+
+Тестирование проводилось в программе <a href="https://www.postman.com/"><b>Postman</b></a>
+
+`Создание подборки`
+
+<img src="{{ asset('img/t1.gif') }}">

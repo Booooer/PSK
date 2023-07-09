@@ -39,7 +39,7 @@ class OfferController extends Controller
             "url_key" => $this->generateKey()
         ]);
 
-        return "200: offer has been created succesfully!";
+        return "200: подборка успешно создана";
     }
 
     public function updateOffer(Request $request){
@@ -54,7 +54,7 @@ class OfferController extends Controller
             "date_end" => $request->date_end,
         ]);
 
-        return response("200: success",200);
+        return response("200: подборка обновлена",200);
     }
 
     public function createItem(Request $request){
@@ -76,7 +76,7 @@ class OfferController extends Controller
             "like" => $request->like,
         ]);
 
-        return response("200: offer item has been created succesfully!",200);
+        return response("200: Новый элемент был создан",200);
     }
 
     public function deleteItem(Request $request){
@@ -87,6 +87,7 @@ class OfferController extends Controller
         }
 
         $item->delete();
-        return response("200: Элемент подборки с id $request->id была успешно удалена", 200);
+
+        return response("200: Элемент подборки с id $request->id был успешно удален", 200);
     }
 }
