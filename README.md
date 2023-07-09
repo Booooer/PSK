@@ -1,2 +1,1 @@
-# PSK
-<h1 style="background=green">Привет</h1>
+<h1></h1>
