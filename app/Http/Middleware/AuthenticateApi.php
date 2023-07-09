@@ -20,6 +20,10 @@ class AuthenticateApi extends Middleware
             $token = $request->bearerToken();
         }
 
+        if (empty($token)) {
+            $token = $request->header('Authorization');
+        }
+
         if ($token === config('api_tokens')[0]) {
             return;
         }
