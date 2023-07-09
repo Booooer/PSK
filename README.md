@@ -43,9 +43,6 @@ API key: `Ghji2-2asdAda_adALIOKsa2121`
 `Создание подборки`
 ![](https://github.com/Booooer/PSK/blob/main/public/img/t1.gif)
 
-<<<<<<< HEAD
-![](https://github.com/Booooer/PSK/blob/main/public/img/t1.gif)
-
 `Обновление подборки`
 
 ![](https://github.com/Booooer/PSK/blob/main/public/img/t2.gif)
@@ -61,5 +58,3 @@ API key: `Ghji2-2asdAda_adALIOKsa2121`
 `Проверка неправильного api токена`
 
 ![](https://github.com/Booooer/PSK/blob/main/public/img/t5.gif)
-=======
->>>>>>> 24df8ef63b1f28ee927b4dfcd935efda76876551
