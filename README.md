@@ -42,4 +42,20 @@ API key: `Ghji2-2asdAda_adALIOKsa2121`
 
 `Создание подборки`
 
-<img src="{{ asset('img/t1.gif') }}">
+![](https://github.com/Booooer/PSK/blob/main/public/img/t1.gif)
+
+`Обновление подборки`
+
+![](https://github.com/Booooer/PSK/blob/main/public/img/t2.gif)
+
+`Удаление элемента подборки`
+
+![](https://github.com/Booooer/PSK/blob/main/public/img/t3.gif)
+
+`Создание элемента подборки`
+
+![](https://github.com/Booooer/PSK/blob/main/public/img/t4.gif)
+
+`Проверка неправильного api токена`
+
+![](https://github.com/Booooer/PSK/blob/main/public/img/t5.gif)
